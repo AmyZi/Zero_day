@@ -1,1 +1,1 @@
-The command prints the name and details of the current operating system. Specifically, it prints the kernel name, network node hostname, kernel release, kernel version, machine hardware name, and processor type.
+Linux mycomputer 5.11.0-16-generic #17-Ubuntu SMP Thu Apr 22 15:10:52 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
